@@ -1,0 +1,19 @@
+
+You: what is your name
+Nexa: My name is Nexa, your AI assistant.
+----------------------------------------
+You: open youtube
+Nexa: Opening YouTube
+----------------------------------------
+You: open google
+Nexa: Opening Google
+----------------------------------------
+You: open notepad
+Nexa: Opening Notepad
+----------------------------------------
+You: pm of india
+Nexa: Narendra Modi
+----------------------------------------
+You: exit
+Nexa: Goodbye
+----------------------------------------
